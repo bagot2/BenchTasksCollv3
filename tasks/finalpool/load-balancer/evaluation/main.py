@@ -1,4 +1,4 @@
-# Evaluation script for alert-system
+# Evaluation script for load-balancer
 
 def run_evaluation():
     # TODO: Implement actual evaluation logic

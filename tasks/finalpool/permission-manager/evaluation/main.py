@@ -1,4 +1,4 @@
-# Evaluation script for alert-system
+# Evaluation script for permission-manager
 
 def run_evaluation():
     # TODO: Implement actual evaluation logic
