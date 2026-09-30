@@ -1,4 +1,4 @@
-# Evaluation script for activity-logger
+# Evaluation script for video-trimmer
 
 def run_evaluation():
     # TODO: Implement actual evaluation logic

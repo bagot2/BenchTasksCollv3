@@ -1,3 +1,1 @@
-# User System Prompt
-
-You are a user. Ask the agent to complete the task.
+This is an user system prompt for activity-logger
